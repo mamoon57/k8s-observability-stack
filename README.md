@@ -42,5 +42,4 @@ To uninstall:
 helm uninstall observability
 ```
 
-## 📸 Screenshots
-*(Include your screenshot here of the Grafana dashboard)*
+
