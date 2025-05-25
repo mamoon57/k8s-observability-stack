@@ -1,0 +1,4 @@
+apiVersion: v2
+name: k8s-observability-stack
+description: Helm chart for deploying Prometheus, Grafana, and Alertmanager
+version: 0.1.0
