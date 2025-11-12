@@ -1,12 +1,8 @@
-# Kubernetes Observability Stack with Helm
+# Kubernetes observability stack
 
-This repository contains a Helm chart to deploy a full observability stack on Kubernetes including:
+Helm chart for a basic observability stack on K8s — Prometheus, Grafana, Alertmanager. Used this pattern on a few EKS clusters.
 
-- Prometheus for metrics collection
-- Grafana for dashboarding
-- Alertmanager for alerting
-
-## 🛠️ Components
+## Components
 
 - **Helm**: Package manager for Kubernetes
 - **Prometheus**: Monitoring system
@@ -43,3 +39,5 @@ helm uninstall observability
 ```
 
 
+
+**Mamoon Idrees** · [LinkedIn](https://www.linkedin.com/in/mamoon-idrees) · mamoon.idrees5@gmail.com
